@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Cloud Native and DevOps Stuff
 - 🤔 I’m looking for help with Machine Learning Algorithms
 - 💬 Ask me about AWS Cloud, Terraform, Kubernetes and Cloud Native Solutions 
-- 📫 How to reach me: email/twitter
+- 📫 How to reach me: [Twitter](https://twitter.com/madhusudhanbn)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love attending meetups and gaining knowledge.
 
