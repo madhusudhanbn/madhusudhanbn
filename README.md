@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Madhusudhan!</h1>
+<h1 align="left">Hi 👋, I'm Madhusudhan!</h1>
 <br>
 
 - 🔭 I’m currently working on Serverless, IoT and Cloud Native Solutions
