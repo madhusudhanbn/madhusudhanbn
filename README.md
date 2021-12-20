@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br>
 
 - 🔭 I’m currently working on Serverless, IoT and Cloud Native Solutions
-- 🌱 I’m currently learning - Machine Learning, Web3.0, Industry4.0 Tech
+- 🌱 I’m currently learning - Machine Learning, Web 3.0, Industry 4.0 Tech
 - 👯 I’m looking to collaborate on Cloud Native and DevOps Stuff
 - 🤔 I’m looking for help with Machine Learning Algorithms
 - 💬 Ask me about AWS Cloud, Terraform, Kubernetes and Cloud Native Solutions 
