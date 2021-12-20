@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Madhusudhan!</h1>
+<br>
+
+- 🔭 I’m currently working on Serverless, IoT and Cloud Native Solutions
+- 🌱 I’m currently learning - Machine Learning, Web3.0, Industry4.0 Tech
+- 👯 I’m looking to collaborate on Cloud Native and DevOps Stuff
+- 🤔 I’m looking for help with Machine Learning Algorithms
+- 💬 Ask me about AWS Cloud, Terraform, Kubernetes and Cloud Native Solutions 
+- 📫 How to reach me: email/twitter
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love attending meetups and gaining knowledge.
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=bnmadhu&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=bnmadhu&theme=dark&hide_border=true" width = 400>
+</p>
