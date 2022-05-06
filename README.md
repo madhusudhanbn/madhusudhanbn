@@ -1,5 +1,5 @@
 <!--
-**bnmadhu/bnmadhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**madhusudhanbn/madhusudhanbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=bnmadhu&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=bnmadhu&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=madhusudhanbn&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=madhusudhanbn&theme=dark&hide_border=true" width = 400>
 </p>
