@@ -12,9 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 <div>
 <img align="center" src="https://i.imgur.com/Auz4Ahf.png">
+</div> -->
+
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
 
 <h1 align="left">Hi 👋, I'm Madhusudhan!</h1>
@@ -32,10 +36,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-madhusudhanbn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhusudhanbn/)](https://www.linkedin.com/in/madhusudhanbn/)
 
 ## ⚡ Technologies
-
-<div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
-</div>
 
 ### 
 
