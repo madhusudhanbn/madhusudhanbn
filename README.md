@@ -1,41 +1,21 @@
-<!--
-**madhusudhanbn/madhusudhanbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 
-<div>
-<img align="center" src="https://i.imgur.com/Auz4Ahf.png">
-</div> -->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Madhusudhan B N
+=======================================================================================================================================
 
 <div>
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
 
-<h1 align="left">Hi 👋, I'm Madhusudhan!</h1>
-<br>
-
-- 🔭 I’m currently working on Serverless, IoT and Cloud Native Solutions
-- 🌱 I’m currently learning - Machine Learning, Web 3.0, Industry 4.0 Tech
-- 👯 I’m looking to collaborate on Cloud Native and DevOps Stuff
-- 🤔 I’m looking for help with Machine Learning Algorithms
-- 💬 Ask me about AWS Cloud, Terraform, Kubernetes and Cloud Native Solutions 
-- 📫 How to reach me: [Email](mailto:madhusudhan.bn@gmail.com) / [Twitter](https://twitter.com/madhusudhanbn)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love attending meetups and gaining knowledge.
+##
+* 🌍  I'm based in Bengaluru, India
+* 🖥️  See my portfolio at [madhusudhanbn.github.io](http://madhusudhanbn.github.io)
+* 🚀  I'm currently working on [Dhwani Platforms](http://dhwani.org)
+* 🧠  I'm learning Data Engineering on AWS & Azure, ML on GCP, MLOps, Snowflake, Databricks, Azure DevOps
+* 🤝  I'm open to collaborating on AWS Cloud, Terraform, Kubernetes, Cloud Native and DevOps Stuff
+* ⚡  I love attending trainings and workshops on Emerging Technologies
 
 [![Linkedin Badge](https://img.shields.io/badge/-madhusudhanbn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhusudhanbn/)](https://www.linkedin.com/in/madhusudhanbn/)
 
-## ⚡ Technologies
+## ⚡ Skills
 
 ### 
 
