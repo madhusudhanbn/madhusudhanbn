@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ##
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  See my portfolio at [madhusudhanbn.github.io](http://madhusudhanbn.github.io)
-* 🚀  I'm currently working on [Dhwani Platforms](http://dhwani.org)
+* 🚀  I'm currently working on [Dhwani Platforms](http://dhwani.org) a microservices based personal portfolio project which is expected to be live by second half of 2023.
 * 🧠  I'm learning Data Engineering on AWS & Azure, ML on GCP, MLOps, Snowflake, Databricks, Azure DevOps
 * 🤝  I'm open to collaborating on AWS Cloud, Terraform, Kubernetes, Cloud Native and DevOps Stuff
 * ⚡  I love attending trainings and workshops on Emerging Technologies
