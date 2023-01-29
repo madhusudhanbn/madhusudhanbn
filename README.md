@@ -13,7 +13,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🤝  I'm open to collaborating on AWS Cloud, Terraform, Kubernetes, Cloud Native and DevOps Stuff
 * ⚡  I love attending trainings and workshops on Emerging Technologies
 
+### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-madhusudhanbn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhusudhanbn/)](https://www.linkedin.com/in/madhusudhanbn/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter)](https://twitter.com/madhusudhanbn)
+
+## ⚡ Interests
+<div>
+<img align="center" alt="coding" width="800" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
+</div>
 
 ## ⚡ Skills
 
