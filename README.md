@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🖥️  See my portfolio at [madhusudhanbn.github.io](http://madhusudhanbn.github.io)
 
-* 🚀  I work on [Dhwani Platforms](http://dhwani.org) a microservices based personal portfolio project and [Cruddur](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023) AWS Bootcamp project.
+* 🚀  Currently working on [Dhwani Platforms](http://dhwani.org), a microservices based personal portfolio project and [Cruddur](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023) AWS Bootcamp project.
 
 * 🧠  I'm learning Data Engineering on AWS & Azure, ML on GCP, MLOps, Snowflake, Databricks, Azure DevOps
 
