@@ -10,7 +10,30 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img align="center" alt="coding" width="800" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
 </div> -->
 
-##
+## Cloud, DevSecOps and Cybersecurity Professional
+
+🔐 **Passionate about Security and Innovation**
+
+### Strengths:
+- *Technical Expertise:* Proven proficiency in cloud architecture, DevOps, and cutting-edge technologies.
+- *Leadership and Innovation:* A track record of leading teams and driving innovation in cybersecurity practices.
+
+### Values:
+- *Security and Compliance:* Committed to ensuring the highest levels of security and compliance.
+
+### Interest in Cybersecurity:
+My interest in cybersecurity lies in implementing robust measures to protect critical data and infrastructure. I thrive on the challenge of staying ahead of emerging threats.
+
+### Audience:
+My professional statement is targeted at cybersecurity recruiters, organizations prioritizing cloud security, and those seeking a seasoned professional to enhance their security posture.
+
+### Alignment with Organizational Goals:
+My technical expertise, commitment to security, and innovative mindset align with organizations seeking proactive and forward-thinking approaches to cybersecurity challenges.
+
+Let's collaborate to strengthen your cybersecurity defenses and drive innovation in the ever-evolving landscape of digital security! 🔒✨
+
+---
+
 * 🌍  I'm based in Bengaluru, India
 
 * 🚀  I'm currently working on [Dhwani Platforms](http://dhwani.org), a microservices based personal portfolio project and [Cruddur](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023) AWS Bootcamp project.
@@ -22,7 +45,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🤝  I'm open to collaborating on AWS Cloud, Terraform, Kubernetes, Cloud Native and DevOps Stuff
 
 * ⚡  I love attending trainings and workshops on Emerging Technologies
-
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-madhusudhanbn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhusudhanbn/)](https://www.linkedin.com/in/madhusudhanbn/)
