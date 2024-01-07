@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img align="center" alt="coding" width="800" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
 </div> -->
 
-## Cloud, DevSecOps and Cybersecurity Professional
+## Cloud, DevSecOps, Cybersecurity and Data Professional
 
 🔐 **Passionate about Security and Innovation**
 
