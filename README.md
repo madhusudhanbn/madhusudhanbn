@@ -38,7 +38,7 @@ Let's collaborate to strengthen your cybersecurity defenses and drive innovation
 
 * 🚀  I'm currently working on [Dhwani Platforms](http://dhwani.org), a microservices based personal portfolio project and [Cruddur](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023) AWS Bootcamp project.
 
-* 🖥️  See my portfolio at [developer.dhwani.org](http://developer.dhwani.org)
+* 🖥️  See my portfolio at [dev.dhwani.org](http://dev.dhwani.org)
 
 * 🧠  I'm learning Data Engineering on AWS & Azure, ML on GCP, MLOps, Snowflake, Databricks, Azure DevOps
 
